@@ -7,7 +7,7 @@
     android:orientation="vertical"
     android:gravity="center_horizontal"
     android:background="@color/gray"
-    tools:context=".PinCode">
+    tools:context=".auth.PinCodeFragment">
 
     <LinearLayout
         android:id="@+id/linearLayout2"
